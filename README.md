@@ -8,3 +8,4 @@ Blogs or random stuff
 
 ## Codes
 - [How to get the background color of an element using javascript](https://github.com/LiuuY/Blog/issues/1)
+- [Quick Sort](https://github.com/LiuuY/Blog/issues/5)
