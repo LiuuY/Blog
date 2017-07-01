@@ -7,6 +7,7 @@ Blogs or random stuff
 - [Node.js Child Process简介](https://github.com/LiuuY/Blog/issues/3)
 - [如何判断component是否是一个class的实例？](https://github.com/LiuuY/Blog/issues/4)
 - [React项目的代码目录结构](https://github.com/LiuuY/Blog/issues/8)
+- [Angular 4 Best Practices](https://github.com/LiuuY/Blog/issues/10)
 
 
 ## Codes
