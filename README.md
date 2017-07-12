@@ -1,4 +1,3 @@
-# Blog
 Blogs or random stuff
 
 ## Blogs
