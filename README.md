@@ -8,7 +8,7 @@ Blogs or random stuff
 - [如何判断component是否是一个class的实例？](https://github.com/LiuuY/Blog/issues/4)
 - [React项目的代码目录结构](https://github.com/LiuuY/Blog/issues/8)
 - [Angular 4 Best Practices](https://github.com/LiuuY/Blog/issues/10)
-- [String(value) 和 '' + value 的区别](https://github.com/LiuuY/Blog/issues/13)
+- [String(value) 和 '' + value 的区别](https://github.com/LiuuY/Blog/issues/12)
 
 
 ## Codes
