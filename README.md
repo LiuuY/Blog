@@ -11,6 +11,7 @@ Blogs or random stuff
 - [Angular 4 Best Practices](https://github.com/LiuuY/Blog/issues/10)
 - [String(value) 和 '' + value 的区别](https://github.com/LiuuY/Blog/issues/12)
 - [JavaScript 实现线程锁](https://github.com/LiuuY/Blog/issues/13)
+- [你真的会字符串反转、计算字符串长度么？](https://github.com/LiuuY/Blog/issues/14)
 
 
 ## Codes
