@@ -3,6 +3,7 @@
 Blogs or random stuff
 
 ## Blogs
+- [比 setTimeout(sb, 0) 更短延时](https://github.com/LiuuY/setZeroTimeout)
 - [let和const的坑](https://github.com/LiuuY/Blog/issues/9)
 - [什么是Javascript Event Loop?](https://github.com/LiuuY/Blog/issues/2)
 - [如何判断component是否是一个class的实例？](https://github.com/LiuuY/Blog/issues/4)
