@@ -3,6 +3,7 @@
 Blogs or random stuff
 
 ## Blogs
+- [使用 Jest 测试 Angular 组件](https://github.com/LiuuY/angular-test-using-jest)
 - [比 setTimeout(sb, 0) 更短延时](https://github.com/LiuuY/setZeroTimeout)
 - [let和const的坑](https://github.com/LiuuY/Blog/issues/9)
 - [什么是Javascript Event Loop?](https://github.com/LiuuY/Blog/issues/2)
