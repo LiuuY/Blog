@@ -3,6 +3,7 @@
 Blogs or random stuff
 
 ## Blogs
+- [如何在浏览器中获取 Production Mode 的 React 实例](https://github.com/LiuuY/Blog/issues/15)
 - [使用 Jest 测试 Angular 组件](https://github.com/LiuuY/angular-test-using-jest)
 - [比 setTimeout(sb, 0) 更短延时](https://github.com/LiuuY/setZeroTimeout)
 - [let和const的坑](https://github.com/LiuuY/Blog/issues/9)
