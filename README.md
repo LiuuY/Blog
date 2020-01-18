@@ -1,4 +1,4 @@
-Blogs or random stuff
+# Blogs and Random Stuff
 
 ## Blogs
 - [Instagram.com 首页优化 - BigPipe](https://github.com/LiuuY/Blog/issues/17)
