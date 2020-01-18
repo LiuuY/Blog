@@ -1,4 +1,4 @@
-# Blogs and Random Stuff
+# Blogs and 
 
 ## Blogs
 - [Instagram.com 首页优化 - BigPipe](https://github.com/LiuuY/Blog/issues/17)
