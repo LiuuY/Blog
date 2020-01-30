@@ -2,6 +2,7 @@
 
 ## Blogs
 - [Instagram.com 首页优化 - BigPipe](https://github.com/LiuuY/Blog/issues/17)
+- [React Native 启动发生了什么？](https://github.com/LiuuY/Blog/issues/20)
 - [AirPods Pro 官网动效揭秘](https://github.com/LiuuY/Blog/issues/19)
 - [Useful HTTP Headers](https://github.com/LiuuY/Blog/issues/18)
 - [一句话前端优化](https://github.com/LiuuY/Blog/issues/16)
