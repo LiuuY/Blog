@@ -33,6 +33,7 @@
 - [takeUntil 顺序问题](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef)
 - [Instagram 前端性能优化](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
 - [V8 Code Caching 对于前端开发者意义](https://v8.dev/blog/code-caching-for-devs)
+- [Using dns-prefetch](https://developer.mozilla.org/en-US/docs/Web/Performance/dns-prefetch)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
