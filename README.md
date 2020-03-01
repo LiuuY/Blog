@@ -9,7 +9,7 @@
 - [如何在浏览器中获取 Production Mode 的 React 实例](https://github.com/LiuuY/Blog/issues/15)
 - [使用 Jest 测试 Angular 组件](https://github.com/LiuuY/angular-test-using-jest)
 - [比 setTimeout(sb, 0) 更短延时](https://github.com/LiuuY/setZeroTimeout)
-- [let 和 const的坑](https://github.com/LiuuY/Blog/issues/9)
+- [let 和 const 的坑](https://github.com/LiuuY/Blog/issues/9)
 - [什么是 Javascript Event Loop?](https://github.com/LiuuY/Blog/issues/2)
 - [如何判断 component 是否是一个 class 的实例？](https://github.com/LiuuY/Blog/issues/4)
 - [React 项目的代码目录结构](https://github.com/LiuuY/Blog/issues/8)
