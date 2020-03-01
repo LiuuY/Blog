@@ -28,7 +28,7 @@
 - [icon font vs. SVG](https://github.blog/2016-02-22-delivering-octicons-with-svg/)
 - [缓存 Redux](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)
 - [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
-- [DI in Web Development](https://blog.angularindepth.com/why-do-we-have-dependency-injection-in-web-development-f8815e593b38)
+- [DI in Web Development](https://indepth.dev/why-do-we-have-dependency-injection-in-web-development/)
 - [takeUntil 顺序问题](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef)
 - [Instagram 前端性能优化](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
 - [V8 Code Caching 对于前端开发者意义](https://v8.dev/blog/code-caching-for-devs)
