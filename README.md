@@ -1,6 +1,7 @@
 # Blogs & 
 
 ## Blogs
+- [target="_blank" 的重大漏洞](https://github.com/LiuuY/Blog/issues/21)
 - [Instagram.com 首页优化 - BigPipe](https://github.com/LiuuY/Blog/issues/17)
 - [React Native 启动发生了什么？](https://github.com/LiuuY/Blog/issues/20)
 - [AirPods Pro 官网动效揭秘](https://github.com/LiuuY/Blog/issues/19)
