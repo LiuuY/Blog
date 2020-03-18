@@ -26,6 +26,7 @@
 - [Two ways to concat array](https://github.com/LiuuY/Blog/issues/7)
 
 ## Links
+- [Detecting System Fonts Without Flash](https://www.bramstein.com/writing/detecting-system-fonts-without-flash.html)
 - [icon font vs. SVG](https://github.blog/2016-02-22-delivering-octicons-with-svg/)
 - [缓存 Redux](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)
 - [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
